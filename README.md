@@ -8,7 +8,7 @@ Here, we collaborate, learn, and track our progress as we master Git through var
 
 ---
 
-## 👥 Team SPARCODE Members
+## 👥SPARCODE Team Members
 
 - **Roxana Teimouri** 💻
 - **Setayesh Nejad Mohammad** 🛠️
