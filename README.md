@@ -1,4 +1,4 @@
-# 🐊 Crocodeile Git Exercises
+# 🐊 Cro.code.ile Git Exercises
 
 ---
 
@@ -10,9 +10,9 @@ Here, we collaborate, learn, and track our progress as we master Git through var
 
 ## 👥 Team SPARCODE Members
 
+- **Roxana Teimouri** 💻
 - **Setayesh Nejad Mohammad** 🛠️
-- **Roxana Teimouri** 🎨
-- **Hadis Hafez** 💻
+- **Hadis Hafez** 🎨
 
 ---
 
