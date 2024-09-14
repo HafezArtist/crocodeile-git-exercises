@@ -1,7 +1,7 @@
 # 💡 " How To Resolve A Merging Conflict In Git "
 
 
-This Document Is To Show Why We Face Conflicts While Merging To Branches In Git.
+This Document Is To Show Why We Face Conflicts While Merging Two Branches In Git.
 Made By : SPARCODE TEAM! 🌟
 CRO.CODE.ILE Bootcamp! 🐊
 
